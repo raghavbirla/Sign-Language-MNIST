@@ -1,5 +1,5 @@
 # Sign-Language-MNIST
-Classification of sign language images using Convolutional neural networks using Keras and TensorFlow
+Classification of sign language images using Convolutional neural networks using Keras and TensorFlow.
 
 I tried to classify Sign Language Gesture using Convolutional Neural Network. I got the data from kaggle https://www.kaggle.com/datamunge/sign-language-mnist.
 
